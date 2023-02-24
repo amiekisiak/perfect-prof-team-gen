@@ -1,0 +1,28 @@
+{
+  "name": "perfect-team-prof-gen",
+  "version": "1.0.0",
+  "description": "This app can be used to generate employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiekisiak/perfect-team-prof-gen.git"
+  },
+  "keywords": [
+    "team"
+  ],
+  "author": "Aleksandra Miekisiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amiekisiak/perfect-team-prof-gen/issues"
+  },
+  "homepage": "https://github.com/amiekisiak/perfect-team-prof-gen#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
