@@ -1,4 +1,4 @@
-const Engineer = require("../lib/Engineer");
+const Engineer = require("../../lib/Engineer");
 const { test } = require('@jest/globals');
 
 test("Can set GitHUb account via constructor", () => {

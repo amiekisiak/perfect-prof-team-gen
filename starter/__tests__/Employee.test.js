@@ -1,4 +1,4 @@
-const Employee = require("../lib/Employee");
+const Employee = require("../../lib/Employee");
 const { expect } = require('@jest/globals');
 
 test("Can instantiate Employee instance", () => {
