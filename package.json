@@ -24,5 +24,8 @@
   },
   "dependencies": {
     "inquirer": "^6.5.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
