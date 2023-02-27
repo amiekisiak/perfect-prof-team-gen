@@ -1,6 +1,6 @@
 .team-heading {  
-    background-color: #2f9fc8;
-    color: #ffffff;
+    background-color: #00678c;
+    color: rgb(238, 246, 248)
   }
   
   .team-area {
@@ -14,9 +14,10 @@
     max-width: 280px;
     width: 90%;
     min-height: 22rem;
-    background-color: #007bff;
-    color: white;
+    background-color: #074990;
+    color: rgb(238, 246, 248);
     display: flex;
+    border-radius: 6%;
     flex-direction: column;
     justify-content: space-between;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
@@ -26,11 +27,12 @@
   .card-body {
     display: flex;
     flex-direction: column;
+    border-radius: 6%;
     justify-content: center;
-    background-color: #f6f7f8;
+    background-color: #6a86a3;
   }
   
   .list-group-item {
-    color: #000000;
+    color: #01042e;
     text-decoration: none;
   }

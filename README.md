@@ -10,7 +10,6 @@ Each part of the code must pass provided test.
  ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Screenshot](#screenshot)
   - [License](#license)
   - [Test](#tests)
   - [Contributors](#contributors)
@@ -27,7 +26,8 @@ Each part of the code must pass provided test.
   6. Every part of the code should pass provided tests.
 
   ## Usage
- 
+ https://user-images.githubusercontent.com/117371691/221446488-a6ae452c-f917-4dab-9ffd-f43baac1c7b3.mp4
+
   
   ## License 
   This application is licensed under MIT License license.
