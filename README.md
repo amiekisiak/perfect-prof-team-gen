@@ -27,11 +27,12 @@ Each part of the code must pass provided test.
   6. Every part of the code should pass provided tests.
 
   ## Usage
- https://user-images.githubusercontent.com/117371691/221446488-a6ae452c-f917-4dab-9ffd-f43baac1c7b3.mp4
+https://user-images.githubusercontent.com/117371691/221537628-ee7082b9-1edc-4943-af69-0afd5bccbc3a.mp4
 
   ## Screenshot
   Here is the output from team.html:
-  ![screencapture-127-0-0-1-5555-output-team-html-2023-02-27-00_21_57](https://user-images.githubusercontent.com/117371691/221446822-8830be8c-272f-496a-adb5-457fc43118d5.png)
+![screencapture-127-0-0-1-5555-output-team-html-2023-02-27-10_21_35](https://user-images.githubusercontent.com/117371691/221538248-9bd10a75-40da-4277-87fd-091dee02e708.png)
+)
 
   ## License 
   This application is licensed under MIT License license.
