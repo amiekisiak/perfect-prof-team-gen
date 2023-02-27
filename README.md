@@ -27,7 +27,8 @@ Each part of the code must pass provided test.
   6. Every part of the code should pass provided tests.
 
   ## Usage
-https://user-images.githubusercontent.com/117371691/221537628-ee7082b9-1edc-4943-af69-0afd5bccbc3a.mp4
+
+   https://user-images.githubusercontent.com/117371691/221543535-722ad1e3-a4e4-4628-b253-9eaa800abc53.mp4
 
   ## Screenshot
   Here is the output from team.html:
