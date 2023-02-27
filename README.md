@@ -10,6 +10,7 @@ Each part of the code must pass provided test.
  ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Screenshot](#screenshot)
   - [License](#license)
   - [Test](#tests)
   - [Contributors](#contributors)
@@ -28,7 +29,10 @@ Each part of the code must pass provided test.
   ## Usage
  https://user-images.githubusercontent.com/117371691/221446488-a6ae452c-f917-4dab-9ffd-f43baac1c7b3.mp4
 
-  
+  ## Screenshot
+  Here is the output from team.html:
+  ![screencapture-127-0-0-1-5555-output-team-html-2023-02-27-00_21_57](https://user-images.githubusercontent.com/117371691/221446822-8830be8c-272f-496a-adb5-457fc43118d5.png)
+
   ## License 
   This application is licensed under MIT License license.
 
